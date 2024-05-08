@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "ML",
+    "imageSrc": "skills/ml.png"
+  },
+  {
+    "title": "LangChain",
+    "imageSrc": "skills/langchain.png"
+  },
+  {
+    "title": "GNN",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/django.png"
+  },
+  {
+    "title": "NodeJS",
+    "imageSrc": "skills/nodejs.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "Azure",
+    "imageSrc": "skills/azure.png"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "skills/kubernetes.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  }
+]

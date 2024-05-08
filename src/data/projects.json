@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Gen AI - Portfolio bot",
+    "imageSrc": "projects/project1.jpg",
+    "description": "This project describes an LLAMA3-powered portfolio bot that answer questions related to the portfolio owner and their areas of expertise.",
+    "skills": ["Python", "VectorDB", "RAG", "OpenAI"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/subbu-art/LLM-Portfolio-bot"
+  },
+  {
+    "title": "Invoice Extraction Bot",
+    "imageSrc": "projects/project_invoice.jpg",
+    "description": "This project aims to develop a system that utilizes LangChain and LLAMA2 to extract data from invoices when a user uploads an attachment.",
+    "skills": ["Python","Streamlit","LLAMA2"],
+    "demo": "https://www.example.com",
+    "source": ""
+  },
+  {
+    "title": "Drug-Target Interaction Prediction using GNNs",
+    "imageSrc": "projects/project3.png",
+    "description": "Employed Seismic Architecture, Graph Attention Networks (GAT), and Graph Convolutional Networks (GCN) within a Graph Neural Network (GNN) to develop a classifier for predicting Drug-Target Interactions.",
+    "skills": ["Python","Pytorch", "GNN", "rdkit"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/subbu-art/GNN-Solubility"
+  }
+]

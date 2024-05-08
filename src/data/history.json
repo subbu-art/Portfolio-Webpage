@@ -1,0 +1,37 @@
+[
+  {
+    "role": "NLP Engineer",
+    "organisation": "AI4Less",
+    "startDate": "Oct, 2023",
+    "endDate": "Present",
+    "experiences": ["Mastered LLM fine-tuning and Prompt engineering.", "Advanced Pipeline Design and Optimization Techniques."],
+    "imageSrc": "history/ai4less_logo.png"
+  },
+  {
+    "role": "AI Engineer",
+    "organisation": "Capgemini",
+    "startDate": "Dec, 2021",
+    "endDate": "Sep, 2022",
+    "experiences": ["Innovated with Graph Neural Networks.", "Leveraged PyTorch for advanced DL."],
+    "imageSrc": "history/capgemini.png"
+  },
+  {
+    "role": "Lead Software Engineer",
+    "organisation": "Capgemini",
+    "startDate": "Jan, 2021",
+    "endDate": "Dec, 2021",
+    "experiences": ["Pioneered novel AI framework design.", "Engineered sleek UIs leveraging Django."],
+    "imageSrc": "history/capgemini.png"
+  },
+  {
+    "role": "AI Engineer",
+    "organisation": "Capgemini",
+    "startDate": "Aug, 2019",
+    "endDate": "Dec, 2020",
+    "experiences": [
+      "Deployed real-time chatbots for clients.",
+      "Experienced with cloud services"
+    ],
+    "imageSrc": "history/capgemini.png"
+  }
+]
